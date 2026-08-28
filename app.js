@@ -2,7 +2,7 @@
 import Prestador from './Prestador.js';
 
 // Criando 2 prestadores
-const prestador1 = new Prestador(1, 'Empresa XPTO', '12.345.678/0001-99');
+const prestador1 = new Prestador(1, 'Empresa', '12.345.678/0001-99');
 const prestador2 = new Prestador(2, 'Serviços BR', '98.765.432/0001-11');
 
 // Mostrando no console
